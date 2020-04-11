@@ -1,0 +1,2 @@
+# cpu-miner
+Begin app
